@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="841789114373229"
+    token="1831037627480465032"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1813" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="438" />
+    <task
+        name="verifier"
+        duration="78" />
+
+    <artifact
+        location="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_05\BroadcastMessage\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="841789114373229"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch02\02_05\BroadcastMessage\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
